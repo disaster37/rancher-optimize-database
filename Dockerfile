@@ -2,8 +2,6 @@ FROM mariadb:latest
 
 MAINTAINER Sebastien LANGOUREAUX <linuxworkgroup@hotmail.com>
 
-ARG http_proxy
-ARG https_proxy
 
 
 
